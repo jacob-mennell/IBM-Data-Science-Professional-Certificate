@@ -4,6 +4,6 @@
 
 Final capstone project compares the distribution of gym related venues in Toronto and New York with Python
 
-API: Foursquare API for Geographic Data on New York and Toronto Venues. 
+-- API: Foursquare API for Geographic Data on New York and Toronto Venues. 
 
-Modules: Pandas, GeoPy, Beautiful Soup, Folium. Matplotlib, and scikit-learn (K-Means Clustering).
+-- Modules: Pandas, GeoPy, Beautiful Soup, Folium. Matplotlib, and scikit-learn (K-Means Clustering).
