@@ -20,4 +20,4 @@ The investigation is beneficial for personal trainers who are flexible regarding
 Foursquare API sourced location data highlights venues, specifically gyms and related venues, within each borough, for New York and Toronto. 
 Borough with the highest mean occurrence of gym related venues for both cities then compared. 
 K means clustering utilised to indicate the distribution of gym venues within neighbourhoods. 
-Within the boroughs that hosts the highest mean occurrence of gym venues, the neighbourhoods within them with the greatest sum of mean occurrence of gym related venues will be selected as the proposed area for relocation 
+Within the boroughs that hosts the highest mean occurrence of gym venues, the neighbourhoods within them with the greatest mean occurrence of gym related venues will be selected as the proposed area for relocation.
