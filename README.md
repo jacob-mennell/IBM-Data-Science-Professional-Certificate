@@ -1,6 +1,6 @@
 # Gym-Venues-New-York-Toronto
 
-###  Repository for work undertaken for the IBM Data Science Professiional Certificate
+###  Repository for work undertaken for the IBM Data Science Professiional Certificate in 2020
 
 ##### Final capstone project analyses the distribution of gym related venues in Toronto and New York with Python and K-Means Clustering machine learning.
 
